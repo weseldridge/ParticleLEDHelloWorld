@@ -10,8 +10,8 @@ You will find two projects in this repo. The first project is a basic hello worl
 for the device. The second project is a hello world app that works over the cloud.
 The projects can be found in the follow directories.
 
-* [LEDBlink]()
-* [LEDCloudBlink]()
+* [LEDBlink](https://github.com/weseldridge/ParticleLEDHelloWorld/tree/master/LEDBlink)
+* [LEDCloudBlink](https://github.com/weseldridge/ParticleLEDHelloWorld/tree/master/LEDCloudBlink)
 
 The code in each of the projects was adapted from the Particle Getting Started guide.
 You can find the LEDBlink example, [here](https://docs.particle.io/guide/getting-started/examples/core/#blink-an-led). The LEDCloudBlink example can be found [here](https://docs.particle.io/guide/getting-started/examples/core/#control-leds-over-the-39-net).
