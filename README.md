@@ -2,7 +2,7 @@
 
 This project is created to support the talk, "Introduction to IoT".
 
-You can find the talk at [Slide Share](https://www.slideshare.net/WesleyEldridge), the live stream on [YouTube](https://www.youtube.com/channel/UCo6OzvDm9Ozpl3O-LkMGsaQ/videos).
+You can find the talk at [Slide Share](https://www.slideshare.net/WesleyEldridge/introduction-to-iot-80473277), the live stream on [YouTube](https://www.youtube.com/channel/UCo6OzvDm9Ozpl3O-LkMGsaQ/videos).
 
 # In this Repo
 
